@@ -114,7 +114,7 @@ const Home: PageComponent = () => {
 
 Home.path = "/";
 Home.metadata = {
-  title: "Home",
+  title: "Slider",
   description: "Home page",
 };
 
